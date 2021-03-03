@@ -6,8 +6,8 @@ using Microsoft.Extensions.Hosting;
 using Serilog;
 using TimeZoneClockIOT.Application.Settings;
 using TimeZoneClockIOT.Application.Tasks;
-using TimeZoneClockIOT.Domain.Ports;
-using TimeZoneClockIOT.Domain.Services;
+using TimeZoneClockIOT.Core.Ports;
+using TimeZoneClockIOT.Core.Services;
 using TimeZoneClockIOT.Infrastructure.Adapters;
 
 namespace TimeZoneClockIOT

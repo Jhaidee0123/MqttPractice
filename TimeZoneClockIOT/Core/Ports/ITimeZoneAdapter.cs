@@ -1,7 +1,7 @@
 ﻿using System.Threading.Tasks;
 using TimeZoneClockIOT.Infrastructure.Model;
 
-namespace TimeZoneClockIOT.Domain.Ports
+namespace TimeZoneClockIOT.Core.Ports
 {
     public interface ITimeZoneAdapter
     {

@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Globalization;
 using System.Threading.Tasks;
-using TimeZoneClockIOT.Domain.Ports;
+using TimeZoneClockIOT.Core.Ports;
 
-namespace TimeZoneClockIOT.Domain.Services
+namespace TimeZoneClockIOT.Core.Services
 {
     public class TimeZoneService : ITimeZoneService
     {

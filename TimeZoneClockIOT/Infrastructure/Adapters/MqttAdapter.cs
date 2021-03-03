@@ -6,7 +6,7 @@ using System;
 using System.Threading;
 using System.Threading.Tasks;
 using TimeZoneClockIOT.Application.Settings;
-using TimeZoneClockIOT.Domain.Ports;
+using TimeZoneClockIOT.Core.Ports;
 
 
 namespace TimeZoneClockIOT.Infrastructure.Adapters
